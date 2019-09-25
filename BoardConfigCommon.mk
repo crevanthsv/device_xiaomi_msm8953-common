@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-VENDOR_PATH := device/xiaomi/msm8953-common
+VENDOR_PATH := device/xiaomi/msm8953
 
 # Architecture
 TARGET_ARCH := arm64
